@@ -178,7 +178,7 @@ Resource: [trainingintheopen.com/speakers-checklist.html](http://trainingintheop
 
 ## Polish Phase
 
-- Start saying your talk outloud.
+- Start saying your talk out loud.
 - Fix the slides to match your story, adding imagery where relevant.
 - Decrease the amount of text on each slide.
 - Add resources / reference links.
@@ -209,7 +209,7 @@ Resource: [trainingintheopen.com/speakers-checklist.html](http://trainingintheop
 - Get a good night's sleep.
 
 
-## Final Prepations
+## Final Preparations
 
 (This assumes a multi-day conference. Your time line may vary.)
 
@@ -230,7 +230,7 @@ Resource: [trainingintheopen.com/speakers-checklist.html](http://trainingintheop
 Pack your bag for tomorrow and include:
 
 - Fully charged laptop.
-- Power cable for your laptop + power adapter if you are not in your home country.
+- Power cable for your laptop + power adaptor if you are not in your home country.
 - Presentation on USB as PDF in case your laptop dies.
 - Printed speaker notes.
 - Water bottle (filled).
